@@ -1,0 +1,15 @@
+话剧编创 Kimi 版
+
+Kimi Code CLI 或 Kimi Code 桌面版：
+1. 解压本包，把整个 stage-play-writing-kimi 文件夹放入 ~/.kimi-code/skills/。
+   如果设置了 KIMI_CODE_HOME，放入 $KIMI_CODE_HOME/skills/。
+2. 开始一个新会话，输入 /skill:stage-play-writing-kimi 后接任务要求。
+3. 保留 references 子目录；只复制 SKILL.md 会丢失详细方法和 15 部经典剧本案例。
+
+Kimi 网页版 Agent：
+1. 在 Agent 模式的技能面板选择“Office 文档转技能”。
+2. 上传本包内的 Kimi-Agent-话剧编创导入稿.docx。
+3. 技能描述可填：创作和修改话剧、独幕剧及校园舞台短剧，重点检查冲突、因果情节、人物弧光、场景与对白；需要时参考 15 部经典剧本案例。
+4. 创建后检查生成的技能内容，再用一段熟悉的剧本做试用。网页版由 Kimi 根据文档生成自定义技能，生成结果需在 Kimi 内确认。
+
+本包保留上游 LICENSE 和 NOTICE。外部剧本文本仅提供链接与分析，不含剧本正文。

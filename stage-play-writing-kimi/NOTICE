@@ -1,0 +1,10 @@
+This single-skill package is a condensed, stage-oriented adaptation of the
+workflow and craft methods in jtydhr88/screenwriting-skills, commit
+51115f18d160aa8b2ac5813e4432b6f0b425358f:
+https://github.com/jtydhr88/screenwriting-skills
+
+The upstream MIT license is retained in LICENSE for adapted material.
+The package also contains newly written stage-play guidance and original
+structural case analyses. It does not bundle the upstream reference files,
+book quotations, or play/translation text. Linked plays and translations
+retain their own rights; check rights before reproducing or adapting them.
